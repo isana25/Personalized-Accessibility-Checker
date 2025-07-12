@@ -2,6 +2,8 @@
 
 An interactive tool to analyze web pages and HTML content for accessibility issues, helping you create more inclusive digital experiences.
 
+🚀 **Live Demo:** [Try it on Hugging Face](https://huggingface.co/spaces/isana25/Personalized-Accessibility-Checker)
+
 ---
 
 ## 🚀 Overview
@@ -15,6 +17,7 @@ The **Personalized Accessibility Checker** is a web-based app that helps users i
 ![Accessibility Checker Demo](analyzer.png)
 *Personalized Accessibility Checker analyzing HTML content for WCAG compliance*
 
+---
 
 ## ✨ Features
 
