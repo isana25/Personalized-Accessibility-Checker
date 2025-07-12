@@ -10,6 +10,12 @@ The **Personalized Accessibility Checker** is a web-based app that helps users i
 
 ---
 
+## 📸 Demo
+
+![Accessibility Checker Demo](analyzer.jpg)
+*Personalized Accessibility Checker analyzing HTML content for WCAG compliance*
+
+
 ## ✨ Features
 
 - 🖼️ **Alt Text Validation:** Detects missing, empty, or generic alt attributes for images.
