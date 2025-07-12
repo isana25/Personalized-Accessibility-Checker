@@ -12,7 +12,7 @@ The **Personalized Accessibility Checker** is a web-based app that helps users i
 
 ## 📸 Demo
 
-![Accessibility Checker Demo](analyzer.jpg)
+![Accessibility Checker Demo](analyzer.png)
 *Personalized Accessibility Checker analyzing HTML content for WCAG compliance*
 
 
